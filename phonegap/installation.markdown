@@ -1,5 +1,9 @@
 # win7 with phonegap development environment 
 
+## best instruction
+
+http://docs.phonegap.com/en/3.2.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide
+
 ### install list
 
 `. java
