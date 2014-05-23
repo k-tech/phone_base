@@ -4,9 +4,11 @@
 
 http://docs.phonegap.com/en/3.2.0/guide_platforms_android_index.md.html#Android%20Platform%20Guide
 
+http://cordova.apache.org/docs/en/3.4.0/guide_cli_index.md.html#The%20Command-Line%20Interface
+
 ### install list
 
-`. java
+java
 
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
